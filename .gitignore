@@ -2,3 +2,7 @@
 .coverage
 .pytest_cache
 *__pycache__venv/
+venv/
+__pycache__/
+tests/__pycache__/
+Calculator/__pycache__/
